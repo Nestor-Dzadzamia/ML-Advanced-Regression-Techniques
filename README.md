@@ -24,5 +24,17 @@ House_Prices/
 
 ---
 
-# მონაცემთა გაწმენდა და დამუშავება (Cleaning & Preprocessing)
+## მონაცემთა გაწმენდა და დამუშავება (Cleaning & Preprocessing)
 
+I. სვეტების ანალიზი NA/ცარიელი მნიშვნელობებით:
+
+<img width="1747" height="510" alt="image" src="https://github.com/user-attachments/assets/8b109314-7414-428e-a597-92698ac102fe" />
+
+
+**სვეტები მაღალი NA პროპორციებით:**
+  *  PoolQC ~ 100%
+  *  MiscFeature ~ 95%
+  *  Alley ~ 95%
+  *  Fence ~ 80%
+
+მოცემულ სვეტებს (>80% NA) დავდროპავ, მეორემხრივ თუ ამ ცარიელ მნიშვნელობებს შევავსებ, დიდი რისკია overfitting-ში გადასვლის.
