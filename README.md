@@ -21,3 +21,8 @@ House_Prices/
 |---|---|
 | `house-model-experiment.ipynb`| მთავარი notebook მოდელების ექსპერიმენტებისათვის / EDA |
 | `house-model-inference.ipynb` | MLflow-იდან pipeline-ისა და მოდელის ჩატვირთვა, Kaggle-ის ტესტ სეტის ტრანსფორმაცია და submission გენერაცია |
+
+---
+
+# მონაცემთა გაწმენდა და დამუშავება (Cleaning & Preprocessing)
+
