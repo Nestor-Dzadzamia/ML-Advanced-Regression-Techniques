@@ -28,7 +28,8 @@ House_Prices/
 
 I. სვეტების ანალიზი NA/ცარიელი მნიშვნელობებით:
 
-<img width="1747" height="510" alt="image" src="https://github.com/user-attachments/assets/8b109314-7414-428e-a597-92698ac102fe" />
+
+<img width="1500" height="700" alt="image" src="https://github.com/user-attachments/assets/afd533c0-e8cc-454f-adb0-5799bdd8f1fe" />
 
 
 **სვეტები მაღალი NA პროპორციებით:**
